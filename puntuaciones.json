@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "verde",
+        "puntuacion": 130
+    },
+    {
+        "nombre": "Poison",
+        "puntuacion": 65
+    },
+    {
+        "nombre": "Loki",
+        "puntuacion": 50
+    },
+    {
+        "nombre": "1",
+        "puntuacion": 40
+    },
+    {
+        "nombre": "flor",
+        "puntuacion": 30
+    },
+    {
+        "nombre": "sara",
+        "puntuacion": 30
+    },
+    {
+        "nombre": "Polo",
+        "puntuacion": 25
+    },
+    {
+        "nombre": "cesar",
+        "puntuacion": -30
+    }
+]
